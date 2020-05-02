@@ -114,5 +114,9 @@ modules.xml
 hs_err_pid*
 TetrisInSwing.iml
 .idea/workspace.xml
+.idea/misc.xml
+.idea/gitignore
+.idea/modules.xml
+.idea/vcs.xml
 
 # End of https://www.gitignore.io/api/java,intellij+all
